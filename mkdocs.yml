@@ -1,0 +1,13 @@
+site_name: Miineidi Docs
+
+theme:
+    logo: assets/icon.svg
+    favicon: assets/icon.svg
+    name: material
+    palette:
+        primary: teal
+
+extra:
+    social:
+      - icon: fontawesome/brands/github
+              
