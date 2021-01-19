@@ -1,6 +1,11 @@
 site_name: Miineidi Docs
-
+nav:
+    - Home: index.md
+    - Use cases: use case.md
+generator: false
 theme:
+    features:
+        - navigation.sections
     logo: assets/icon.svg
     favicon: assets/icon.svg
     name: material
@@ -8,10 +13,9 @@ theme:
         primary: teal
 
 extra:
-    generator: false
     social:
       - icon: fontawesome/brands/github
         link: https://miineidi.surge.sh/
     
-copyright: Copyright &copy; 2019 - 2021 Miineidi
+copyright: Copyright 2019-2021 Miineidi with love by lordvins226
               

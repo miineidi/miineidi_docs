@@ -2,7 +2,9 @@
 
 
 
-## Use cases of Miineidi Blockchain
+
+
+## About Miineidi project
 
 
 
@@ -12,3 +14,6 @@
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+
+# Use cases of Miineidi Blockchain
