@@ -8,6 +8,10 @@ theme:
         primary: teal
 
 extra:
+    generator: false
     social:
       - icon: fontawesome/brands/github
+        link: https://miineidi.surge.sh/
+    
+copyright: Copyright &copy; 2019 - 2021 Miineidi
               
